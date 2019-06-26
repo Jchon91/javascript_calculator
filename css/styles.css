@@ -50,6 +50,7 @@ p{
 button{
   height:2.3em;
   font-size:20pt;
+  border:2px solid black;
 }
 .keys{
   display:grid;
@@ -57,6 +58,7 @@ button{
   grid-template-rows:repeat(4, 1fr);
   grid-gap:10px;
   padding: 20px;
+
 
 }
 
